@@ -4,6 +4,8 @@ This project is a clean, production-ready database built for pharmaceutical fact
 
 A production-ready PostgreSQL database system built for pharmaceutical manufacturing and automated warehouse operations. Designed to meet strict compliance standards, it handles complex inventory and logistics workflows directly inside the database using `PL/pgSQL`. The system ensures reliable data integrity, safely processes multi-step warehouse transactions, and keeps a secure, tamper-proof audit trail to support FDA compliance—all managed at the database level.
 
+<img width="2816" height="1536" alt="Gemini_Generated_Image_x89jeux89jeux89j" src="https://github.com/user-attachments/assets/94b09a50-9d5d-47fc-b819-9de16c531dd7" />
+
 ## 🚀 System Architecture & BCNF Design
 
 The database architecture is designed to satisfy **Boyce-Codd Normal Form (BCNF)** to eliminate data redundancy, structured across 5 distinct operational layers:
